@@ -27,7 +27,7 @@ const Header = () => {
                         <div className="row">
                            <div className="col-md-6 ms-5 mt-5">
                                     <div>
-                                    <h1 className="text-white fw-bold text-center mt-5">Start your journey whit our practical courses</h1>
+                                    <h1 className="text-white fw-bold text-center mt-5">Start your journey with our practical courses</h1>
                                     <p className="text-white">Our online course are buil in partner ship with technology leaders and are designed to meet industry demand</p>
                                     <div className="d-flex justify-content-center  align-items-center"><button className="text-center btn btn-light text-dark fw-bold rounded-pill">Take a course</button></div>
                                     </div>

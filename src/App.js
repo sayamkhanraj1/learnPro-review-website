@@ -5,7 +5,7 @@ import {BrowserRouter as Router, Switch, Route,} from "react-router-dom";
 import Header from './Components/Header/Header';
 import Footer from './Components/Footer/Footer';
 import Teachers from './Components/Teachers/Teachers';
-import Services from './Components/Services/Services';
+import Courses from './Components/Courses/Courses';
 
 function App() {
   return (
@@ -23,7 +23,7 @@ function App() {
           <Teachers />
           </Route>
           <Route exact path="/services">
-            <Services />
+            <Courses />
           </Route>
         </Switch>
         <Footer />
