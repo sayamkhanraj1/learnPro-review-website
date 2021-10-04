@@ -30,9 +30,9 @@ const Footer = () => {
                 <ul>
                   <li className="footer-menu">Services</li>
                   <li className="footer-menu">Teachers</li>
-                  <li className="footer-menu">Courses</li>
+                  <li className="footer-menu">Refund Policy</li>
+                  <li className="footer-menu"> Career</li>
                   <li className="footer-menu">Contact us</li>
-                  <li className="footer-menu"> About us</li>
                 </ul>
               </div>
             </div>
@@ -47,6 +47,7 @@ const Footer = () => {
                 />
                 <button className="text-center btn btn-light text-dark fw-bold ms-2">Submit</button>
                 </div>
+                <h6 className="mt-4">*Please Note : We do not spam your mail.</h6>
               </div>
             </div>
           </div>
